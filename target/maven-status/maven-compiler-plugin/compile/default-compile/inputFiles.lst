@@ -1,0 +1,10 @@
+/Users/theworldisyours/Projects/mysql-java/mysql-java/src/main/java/projects/entity/Category.java
+/Users/theworldisyours/Projects/mysql-java/mysql-java/src/main/java/projects/dao/ProjectDao.java
+/Users/theworldisyours/Projects/mysql-java/mysql-java/src/main/java/projects/entity/Step.java
+/Users/theworldisyours/Projects/mysql-java/mysql-java/src/main/java/projects/exception/DbException.java
+/Users/theworldisyours/Projects/mysql-java/mysql-java/src/main/java/projects/service/ProjectService.java
+/Users/theworldisyours/Projects/mysql-java/mysql-java/src/main/java/projects/entity/Material.java
+/Users/theworldisyours/Projects/mysql-java/mysql-java/src/main/java/projects/entity/Project.java
+/Users/theworldisyours/Projects/mysql-java/mysql-java/src/main/java/projects/ProjectsApp.java
+/Users/theworldisyours/Projects/mysql-java/mysql-java/src/main/java/provided/util/DaoBase.java
+/Users/theworldisyours/Projects/mysql-java/mysql-java/src/main/java/projects/dao/DbConnection.java
